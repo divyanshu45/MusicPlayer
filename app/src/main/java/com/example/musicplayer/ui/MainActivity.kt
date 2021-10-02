@@ -99,7 +99,7 @@ fun SongDetails(song: Song) {
         Row(modifier = Modifier.padding(12.dp)) {
             CoilImage(
                 data = song.image,
-                contentDescription = "Book cover page",
+                contentDescription = "Song cover page",
                 fadeIn = true,
                 contentScale = ContentScale.Fit,
                 modifier = Modifier.size(songCoverImageSize)
