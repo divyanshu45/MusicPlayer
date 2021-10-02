@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "314706427234",
+    "project_id": "music-player-af780",
+    "storage_bucket": "music-player-af780.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314706427234:android:467cd31d86311aeeb3003b",
+        "android_client_info": {
+          "package_name": "com.example.musicplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314706427234-2agcnpaihpj340563jmaus3gikg2our7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiJ-keBtWe4oDJ5kcNHgivwbkTAotc9cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314706427234-2agcnpaihpj340563jmaus3gikg2our7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
